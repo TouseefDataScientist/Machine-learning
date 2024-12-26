@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Huzaifa",
+        "age": 30,
+        "is_student": false,
+        "courses": ["Math", "Science", "History"]
+    },
+    {
+        "name": "Nabeel",
+        "age": 28,
+        "is_student": true,
+        "courses": ["English", "Art"]
+    },
+    {
+        "name": "Arsalan",
+        "age": 35,
+        "is_student": false,
+        "courses": ["Biology", "Chemistry"]
+    }
+]
+
