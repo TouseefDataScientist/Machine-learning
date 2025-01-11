@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 {
   "people" : [
+=======
+[
+>>>>>>> c4373e2 (naeem ullah)
     {
        "firstName": "Joe",
        "lastName": "Jackson",
@@ -21,5 +25,9 @@
        "age": 24,
        "number": "456754675"
     }
+<<<<<<< HEAD
   ]
 }
+=======
+   ]
+>>>>>>> c4373e2 (naeem ullah)
