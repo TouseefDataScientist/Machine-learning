@@ -1,0 +1,22 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "email": "john.doe@example.com",
+    "isStudent": false,
+    "courses": [
+      {
+        "name": "Mathematics",
+        "credits": 3
+      },
+      {
+        "name": "Computer Science",
+        "credits": 4
+      }
+    ],
+    "address": {
+      "street": "123 Main St",
+      "city": "Springfield",
+      "zipCode": "12345"
+    }
+  }
+  
